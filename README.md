@@ -1,2 +1,2 @@
 # Calculadora-de-Frequ-ncia-Natural
-Calculadora de frequência natural em desenvolvimento para rodar junta com um softwre embarcado de arduino
+Calculadora de frequência natural de embarcações em desenvolvimento para rodar junto com um softwre embarcado de arduino
